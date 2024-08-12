@@ -1,6 +1,6 @@
 ﻿# Docker app django com db mysql
 
-## Ao inicializar o docker-compose, siga os passos a abaixo:
+## Ao inicializar o docker-compose, siga os passos abaixo:
 
 ### Criar um super usuário do admin do django
 
